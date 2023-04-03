@@ -1,0 +1,1 @@
+Because Link is only valid till if you include inside webpage(DOM) like anchor or a tag inside html page because Link is same as a tag. But useNavigate is a function or hook what's use anywhere in your code. Because useNavigate not need to add inside DOM.
